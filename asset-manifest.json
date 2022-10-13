@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.09590757.css",
-    "main.js": "/static/js/main.e300fdd4.js",
+    "main.css": "/static/css/main.0041ab82.css",
+    "main.js": "/static/js/main.70e0d095.js",
     "static/js/787.1deb1919.chunk.js": "/static/js/787.1deb1919.chunk.js",
     "static/media/산학협력관1.2.jpg": "/static/media/산학협력관1.2.4c83cf8da11adce544b4.jpg",
     "static/media/NP1.5.jpg": "/static/media/NP1.5.375d757681339d8461f6.jpg",
@@ -47,18 +47,18 @@
     "static/media/다산관2.2번.jpg": "/static/media/다산관2.2번.50fb79b042756c1e2f01.jpg",
     "static/media/매점1.jpg": "/static/media/매점1.46c9fd548d153c65a4d8.jpg",
     "static/media/다산관2.4번.jpg": "/static/media/다산관2.4번.e10d099ad64d249d2f26.jpg",
-    "static/media/본관.jpg": "/static/media/본관.e066c5d0c1818bda53ca.jpg",
     "static/media/실습동1.jpg": "/static/media/실습동1.8e7ed3f45fb08646ab53.jpg",
     "static/media/문예관1.jpg": "/static/media/문예관1.a91fede6867db51652a3.jpg",
     "static/media/산학협력관1.jpg": "/static/media/산학협력관1.da92575786580cabd915.jpg",
+    "static/media/본관1.jpg": "/static/media/본관1.1bbe39be4ffe3ad7b189.jpg",
     "static/media/로고.png": "/static/media/로고.1d2ca333a03592e6051d.png",
     "index.html": "/index.html",
-    "main.09590757.css.map": "/static/css/main.09590757.css.map",
-    "main.e300fdd4.js.map": "/static/js/main.e300fdd4.js.map",
+    "main.0041ab82.css.map": "/static/css/main.0041ab82.css.map",
+    "main.70e0d095.js.map": "/static/js/main.70e0d095.js.map",
     "787.1deb1919.chunk.js.map": "/static/js/787.1deb1919.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09590757.css",
-    "static/js/main.e300fdd4.js"
+    "static/css/main.0041ab82.css",
+    "static/js/main.70e0d095.js"
   ]
 }
